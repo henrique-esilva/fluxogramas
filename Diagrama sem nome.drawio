@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-08-29T01:58:53.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="AwesvOK9iuVG4CxnNQv3" version="21.6.9" type="github">
+  <diagram name="Página-1" id="-YaWRVkD5e5K8Xdp2q7D">
+    <mxGraphModel dx="704" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VfBZibVXeFqyCF_TjMC-1" target="_VfBZibVXeFqyCF_TjMC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-1" value="&amp;lt;início&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VfBZibVXeFqyCF_TjMC-2" target="_VfBZibVXeFqyCF_TjMC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-2" value="Ponha a panela com água no fogo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VfBZibVXeFqyCF_TjMC-4" target="_VfBZibVXeFqyCF_TjMC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-4" value="Espere a água ferver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VfBZibVXeFqyCF_TjMC-5" target="_VfBZibVXeFqyCF_TjMC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-5" value="Jogue o miojo de sua preferência na panela" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VfBZibVXeFqyCF_TjMC-9" target="_VfBZibVXeFqyCF_TjMC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-9" value="Adicione duas colheres de requeijão e espere derreter até ficar cremoso" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_VfBZibVXeFqyCF_TjMC-11" value="&amp;lt;cabou&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
