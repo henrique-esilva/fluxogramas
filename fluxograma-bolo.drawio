@@ -1,9 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T02:05:17.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" version="21.6.9" etag="mhukUpywNta9dnXbT5Eh" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T02:25:10.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0" etag="BZrQQnz6afvehkBKs0-l" version="21.6.9" type="github">
   <diagram name="Página-1" id="OjL-2Up-HdLbDBdXpQpn">
-    <mxGraphModel>
+    <mxGraphModel dx="1006" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-1" target="GiEFZo3kaDlm1XvMZs04-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-1" value="&amp;lt;início&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-2" value="&amp;lt;fim&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-3" target="GiEFZo3kaDlm1XvMZs04-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-3" value="separe:&lt;br&gt;-2 xícaras (chá) de açúcar&lt;br&gt;-3 xícaras (chá) de farinha de trigo&lt;br&gt;-4 colheres (sopa) de margarina&lt;br&gt;-3 ovos&lt;br&gt;-1 e 1/2 xícara (chá) de leite&lt;br&gt;-1 colher (sopa) bem cheia de fermento em pó" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-4" target="GiEFZo3kaDlm1XvMZs04-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="400" />
+              <mxPoint x="290" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-4" value="bata as claras em neve e reserve" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-5" target="GiEFZo3kaDlm1XvMZs04-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-5" value="misture as gemas, a margarina e o açúcar até ficar homogêneo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-6" target="GiEFZo3kaDlm1XvMZs04-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-6" value="acrescente o leite e a farinha de trigo aos poucos, sem parar de bater" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-10" target="GiEFZo3kaDlm1XvMZs04-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-10" value="adicione as claras em neve e o fermento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-12" target="GiEFZo3kaDlm1XvMZs04-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-12" value="despeje em uma forma untada e enfarinhada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-14" target="GiEFZo3kaDlm1XvMZs04-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-14" value="asse em um forno préaquecido a 180° por 40 minutos aprox." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-22" target="GiEFZo3kaDlm1XvMZs04-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-32" value="sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GiEFZo3kaDlm1XvMZs04-30">
+          <mxGeometry x="-0.2618" y="-1" relative="1" as="geometry">
+            <mxPoint x="340" y="154" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-33" value="sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GiEFZo3kaDlm1XvMZs04-30">
+          <mxGeometry x="-0.074" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-22" value="ficou bom?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GiEFZo3kaDlm1XvMZs04-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="340" as="sourcePoint" />
+            <mxPoint x="680" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-25" value="não" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GiEFZo3kaDlm1XvMZs04-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GiEFZo3kaDlm1XvMZs04-29" target="GiEFZo3kaDlm1XvMZs04-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="397" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GiEFZo3kaDlm1XvMZs04-29" value="se inscreva no canal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
